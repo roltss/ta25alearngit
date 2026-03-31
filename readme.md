@@ -1,2 +1,3 @@
 # Learngit
-- main line 12
+- main line 1
+- main line 2
